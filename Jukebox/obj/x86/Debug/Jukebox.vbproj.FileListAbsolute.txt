@@ -1,0 +1,32 @@
+C:\Users\Dcnigma\AppData\Local\Temporary Projects\Jukebox\bin\Debug\Jukebox.exe
+C:\Users\Dcnigma\AppData\Local\Temporary Projects\Jukebox\bin\Debug\Jukebox.pdb
+C:\Users\Dcnigma\AppData\Local\Temporary Projects\Jukebox\bin\Debug\Jukebox.xml
+C:\Users\Dcnigma\AppData\Local\Temporary Projects\Jukebox\bin\Debug\Interop.WMPLib.dll
+C:\Users\Dcnigma\AppData\Local\Temporary Projects\Jukebox\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Dcnigma\AppData\Local\Temporary Projects\Jukebox\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Dcnigma\AppData\Local\Temporary Projects\Jukebox\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Dcnigma\AppData\Local\Temporary Projects\Jukebox\obj\x86\Debug\Jukebox.vbproj.ResolveComReference.cache
+C:\Users\Dcnigma\AppData\Local\Temporary Projects\Jukebox\obj\x86\Debug\Jukebox.database.resources
+C:\Users\Dcnigma\AppData\Local\Temporary Projects\Jukebox\obj\x86\Debug\Jukebox.Form1.resources
+C:\Users\Dcnigma\AppData\Local\Temporary Projects\Jukebox\obj\x86\Debug\Jukebox.Resources.resources
+C:\Users\Dcnigma\AppData\Local\Temporary Projects\Jukebox\obj\x86\Debug\Jukebox.vbproj.GenerateResource.Cache
+C:\Users\Dcnigma\AppData\Local\Temporary Projects\Jukebox\obj\x86\Debug\Jukebox.exe
+C:\Users\Dcnigma\AppData\Local\Temporary Projects\Jukebox\obj\x86\Debug\Jukebox.xml
+C:\Users\Dcnigma\AppData\Local\Temporary Projects\Jukebox\obj\x86\Debug\Jukebox.pdb
+C:\Users\Dcnigma\Documents\Visual Studio 2010\Projects\Jukebox\Jukebox\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Dcnigma\Documents\Visual Studio 2010\Projects\Jukebox\Jukebox\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Dcnigma\Documents\Visual Studio 2010\Projects\Jukebox\Jukebox\obj\x86\Debug\Jukebox.vbproj.ResolveComReference.cache
+C:\Users\Dcnigma\Documents\Visual Studio 2010\Projects\Jukebox\Jukebox\obj\x86\Debug\Jukebox.exe
+C:\Users\Dcnigma\Documents\Visual Studio 2010\Projects\Jukebox\Jukebox\obj\x86\Debug\Jukebox.xml
+C:\Users\Dcnigma\Documents\Visual Studio 2010\Projects\Jukebox\Jukebox\obj\x86\Debug\Jukebox.pdb
+C:\Users\Dcnigma\Documents\Visual Studio 2010\Projects\Jukebox\Jukebox\bin\Debug\Jukebox.exe
+C:\Users\Dcnigma\Documents\Visual Studio 2010\Projects\Jukebox\Jukebox\bin\Debug\Jukebox.pdb
+C:\Users\Dcnigma\Documents\Visual Studio 2010\Projects\Jukebox\Jukebox\bin\Debug\Jukebox.xml
+C:\Users\Dcnigma\Documents\Visual Studio 2010\Projects\Jukebox\Jukebox\bin\Debug\Interop.WMPLib.dll
+C:\Users\Dcnigma\Documents\Visual Studio 2010\Projects\Jukebox\Jukebox\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Dcnigma\Documents\Visual Studio 2010\Projects\Jukebox\Jukebox\obj\x86\Debug\Jukebox.database.resources
+C:\Users\Dcnigma\Documents\Visual Studio 2010\Projects\Jukebox\Jukebox\obj\x86\Debug\Jukebox.Form1.resources
+C:\Users\Dcnigma\Documents\Visual Studio 2010\Projects\Jukebox\Jukebox\obj\x86\Debug\Jukebox.Resources.resources
+C:\Users\Dcnigma\Documents\Visual Studio 2010\Projects\Jukebox\Jukebox\obj\x86\Debug\Jukebox.vbproj.GenerateResource.Cache
+C:\Users\Dcnigma\Documents\Visual Studio 2010\Projects\Jukebox\Jukebox\bin\Debug\Jukebox.exe.config
+C:\Users\Dcnigma\Documents\Visual Studio 2010\Projects\Jukebox\Jukebox\obj\x86\Debug\Jukebox.first_time.resources
