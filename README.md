@@ -7,5 +7,3 @@ I build a steampunk theme radio and wanted to have a Jukebox.
 Dwjukebox look good but i missed the touchscreen function.....
 so here is my version for the world.
 
-Homepage: http://dcnigma.eu5.org
-email: Bart_is@hotmail.com
